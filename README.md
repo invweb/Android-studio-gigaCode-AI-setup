@@ -4,6 +4,7 @@ Android studio gigaCode setup step by step in Russian, English, German and Chine
 # GigaCode AI Plugin Installation Guide for Android Studio
 
 #Русский
+
 Плагин GigaCode — это ИИ‑помощник внутри Android Studio: он подсказывает код, объясняет непонятное и помогает быстрее писать приложения.
 
 # Руководство по установке плагина GigaCode AI для Android Studio
@@ -58,6 +59,8 @@ Android studio gigaCode setup step by step in Russian, English, German and Chine
   
 ## English
 
+The GigaCode plugin is an AI assistant inside Android Studio: it suggests code, explains confusing parts, and helps you build apps faster.
+
 **Step 1. Add the plugin repository**  
 Open Android Studio → Settings (macOS: Preferences) → Plugins. Click “Install plugin from disk…”, then select the plugin file.
 
@@ -76,6 +79,9 @@ The GigaCode button should be visible. You can now highlight code, ask questions
 ---
 
 ## Deutsch
+
+Das GigaCode‑Plugin ist ein KI‑Assistent innerhalb von Android Studio: es schlägt Code vor, erklärt Unverständliches und hilft, Apps schneller zu entwickeln.
+
 
 **Schritt 1. Fügen Sie das Plugin-Repository hinzu**  
 Android Studio → Settings (macOS: Preferences) → Plugins → “Install plugin from disk…” → wählen Sie die Plugin-Datei aus.
@@ -97,6 +103,8 @@ Die GigaCode-Schaltfläche sollte sichtbar sein. Sie können Code markieren, Fra
 ## 中文
 
 **如何在 Android Studio 中安装 GigaCode AI 插件**
+
+GigaCode 插件是 Android Studio 中的 AI 助手：它会提示代码、解释难懂部分，帮你更快开发应用。
 
 **步骤 1：添加插件仓库**  
 打开 Android Studio → Settings（macOS 上为 Preferences）→ Plugins → 点击“Install plugin from disk…”，选择插件文件。
