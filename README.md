@@ -4,6 +4,8 @@ Android studio gigaCode setup step by step in Russian, English, German and Chine
 # GigaCode AI Plugin Installation Guide for Android Studio
 
 #Русский
+Плагин GigaCode — это ИИ‑помощник внутри Android Studio: он подсказывает код, объясняет непонятное и помогает быстрее писать приложения.
+
 # Руководство по установке плагина GigaCode AI для Android Studio
 
 ## Шаг 1. Добавьте плагин из локального файла
